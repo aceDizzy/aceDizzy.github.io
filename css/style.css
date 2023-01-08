@@ -821,7 +821,15 @@ a:hover {
 }
 
 .w-sub-title {
-  font-size: 0.7rem;
+  font-size: 0.8rem;
+}
+
+.w-sub-title a{
+  color: #045169;
+}
+
+.w-sub-title a:hover{
+  color: #03873a;
 }
 
 /*======================================
